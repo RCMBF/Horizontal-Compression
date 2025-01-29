@@ -4,4 +4,5 @@ This repository contains Lean-assisted proofs about properties of the Horizontal
 To run this project, please copy-paste the web version to:
 
     https://live.lean-lang.org/#project=mathlib-stable
-    Wait until the editor is ready (this may take a minute or so).
+
+Note that it may take a minute or so until the file is ready.
