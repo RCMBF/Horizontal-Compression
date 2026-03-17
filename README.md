@@ -3,7 +3,8 @@ This repository contains the implementation of the Horizontal-Compression Algori
   - The HorizontalCompression folder contains the full Lean4 project, with both the algorithm and related proofs:
     - "HorizontalCompression/Main.lean" is the proof of the main theorem (Coverage and Soundness of HC);
     - "HorizontalCompression/Example.lean" shows how to compress proofs with the Lean4 implementation of HC;
-    - "HorizontalCompression/HorizontalCompression.lean" is the Lean file used to import the project's libraries.
+    - "HorizontalCompression/HorizontalCompression.lean" is the Lean file used to import the project's libraries;
+    - The project was made using lean4:v4.28.0.
   - "HorizontalCompressionEXEC.lean" contains the Lean4 implementation of the Horizontal-Compression Algorithm;
   - "HorizontalCompressionWEB.lean" contains the web version of the related proofs in Lean4.
 
