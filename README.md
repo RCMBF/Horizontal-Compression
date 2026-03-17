@@ -5,6 +5,7 @@ This repository contains Lean-assisted proofs about properties of the Horizontal
   - HorizontalCompressionWEB contains the web version of the proof.
 
 To run this project, please download the contents of the HorizontalCompression folder.
+
 Alternatively, you may also run this project by copying and pasting the EXEC/WEB file to:
 
 [https://live.lean-lang.org/#project=lean-nightly](https://live.lean-lang.org/#project=lean-nightly)
